@@ -14,4 +14,4 @@ To generate the printer control instructions:
 3. Run
 
 
-The Mesh2EEG functions ("ComputeEEGPos.m", "FindArcPoints.m", "FindArcPoints.m", "FindArcPoints.m") for automatic calculation of the International 10-20, 10-10, and 10-5 scalp coordinates of EEG electrodes on a boundary element mesh of a human head are by Giacometti, P., Perdue, K.L., Diamond, S.G. in Algorithm to find high density EEG scalp coordinates and analysis of their correspondence to structural and functional regions of the brain. J Neurosci Methods. 229:84-96. (2014)
+The Mesh2EEG functions ("ComputeEEGPos.m", "SortEdgeNodes.m", "FindArcPoints.m", "MeshPlaneIntersectPoints.m") for automatic calculation of the International 10-20, 10-10, and 10-5 scalp coordinates of EEG electrodes on a boundary element mesh of a human head are by Giacometti, P., Perdue, K.L., Diamond, S.G. from "Algorithm to find high density EEG scalp coordinates and analysis of their correspondence to structural and functional regions of the brain. J Neurosci Methods. 229:84-96. (2014)"
